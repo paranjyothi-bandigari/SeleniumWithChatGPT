@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ParallelTestSuite" parallel="classes" thread-count="2">
+    <listeners>
+        <listener class-name="Utils.TestListener"/>
+    </listeners>
+<test name="ParallelTests">
+    <classes>
+        <class name="tests.UrlOpenTest"/>
+        <class name="tests.RegisterUser"/>
+
+        <!-- Add more test classes as needed -->
+    </classes>
+</test>
+</suite>
