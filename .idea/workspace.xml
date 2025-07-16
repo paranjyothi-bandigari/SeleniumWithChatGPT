@@ -4,18 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ec757f5-cbe0-4b32-a535-f9878eadaca9" name="Changes" comment="" />
+    <list default="true" id="6ec757f5-cbe0-4b32-a535-f9878eadaca9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "paranjyothi-bandigari"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/paranjyothi-bandigari/SeleniumWithChatGPT.git",
+    "accountId": "da015dfe-dbe5-48f3-b9bb-47d7f67e0556"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2zvSOWGMgCi2XNI2JTnwZEqNXZO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -25,11 +48,115 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.SeleniumWithChatGPT [clean].executor": "Run",
+    "Maven.SeleniumWithChatGPT [compile].executor": "Run",
+    "Maven.SeleniumWithChatGPT [test].executor": "Run",
+    "Maven.SeleniumWithChatGPT [validate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/nagarjunakoppala/IdeaProjects/SeleniumWithChatGPT/testng.xml.executor": "Run",
+    "TestNG./Users/nagarjunakoppala/IdeaProjects/SeleniumWithChatGPT/testng001.xml.executor": "Run",
+    "TestNG.RegisterUser.executor": "Run",
+    "TestNG.RegisterUserWithExcel.executor": "Run",
+    "TestNG.UrlOpenTest.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nagarjunakoppala/IdeaProjects/SeleniumWithChatGPT"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/nagarjunakoppala/IdeaProjects/SeleniumWithChatGPT/testng001.xml">
+    <configuration name="RegisterUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWithChatGPT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.RegisterUser" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterUserWithExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWithChatGPT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.RegisterUserWithExcel" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlOpenTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWithChatGPT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.UrlOpenTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/nagarjunakoppala/IdeaProjects/SeleniumWithChatGPT/testng001.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWithChatGPT" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng001.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/nagarjunakoppala/IdeaProjects/SeleniumWithChatGPT/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWithChatGPT" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/nagarjunakoppala/IdeaProjects/SeleniumWithChatGPT/testng001.xml" />
+        <item itemvalue="TestNG./Users/nagarjunakoppala/IdeaProjects/SeleniumWithChatGPT/testng.xml" />
+        <item itemvalue="TestNG.RegisterUserWithExcel" />
+        <item itemvalue="TestNG.RegisterUser" />
+        <item itemvalue="TestNG.UrlOpenTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
